@@ -13,7 +13,7 @@ export default siteConfig({
 
   github: 'crspy2',
   youtube: '/@crspytm',
-  stripe: 'https://donate.stripe.com/test_28obKZgRYeMw3za3cc',
+  stripe: 'https://donate.stripe.com/dR64kc1QtazDfw43cc',
 
   defaultPageIcon: null,
   defaultPageCover: null,
