@@ -86,13 +86,6 @@
   border-color: #FF0000;
 }
 
-.stripe .actionBgPane {
-  background: #5433FF;
-}
-.stripe:hover {
-  border-color: #5433FF;
-}
-
 .newsletter .actionBgPane {
   background: #777777;
 }

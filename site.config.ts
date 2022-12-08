@@ -12,8 +12,8 @@ export default siteConfig({
   description: "Portfolio de Français",
 
   github: 'crspy2',
-  youtube: '/@crspytm',
-  stripe: 'https://donate.stripe.com/dR64kc1QtazDfw43cc',
+  // youtube: '/@crspytm',
+
 
   defaultPageIcon: null,
   defaultPageCover: null,
